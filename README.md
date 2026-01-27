@@ -43,11 +43,8 @@ streamlit run app.py
 ## 🤝 Connect with Me
 - 📺 **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
 - 🌐 **Website:** [PythonAndVBA](https://pythonandvba.com)
-- 💬 **Discord:** [Join the Community](https://pythonandvba.com/discord)
 - 💼 **LinkedIn:** [Sven Bosau](https://www.linkedin.com/in/sven-bosau/)
-- 📸 **Instagram:** [sven_bosau](https://www.instagram.com/sven_bosau/)
-
-## 💖 Support
+- 📬 **Contact:** [Get in Touch](https://pythonandvba.com/contact)## 💖 Support
 If my tutorials help you, please consider [buying me a coffee](https://pythonandvba.com/coffee-donation).  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://pythonandvba.com/coffee-donation)
 
